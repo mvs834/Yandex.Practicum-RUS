@@ -1,5 +1,7 @@
 # Прогноз оттока клиентов
 
+[ipynb](https://github.com/mvs834/Yandex.Practicum-RUS/Telecom customer churn/Telecom_Customer_Churn_LGBM_0,89.ipynb)
+
 ## Описание проекта
 
 Требуется анализировать персональные данные клиентов, их подключённые услуги и расходы, и прогнозировать возможный отток клиентов
