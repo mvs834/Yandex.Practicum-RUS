@@ -1,6 +1,6 @@
 # Временные ряды. Прогноз количества клиентов
 
-[ipynb](https://github.com/mvs834/Yandex.Practicum-RUS/blob/4c4dc72f3400ddb15e0cd193355d4c21a8dd4da1/Time%20Series%20Taxi%20Client%20Prediction/Time_Series_Taxi_Clients_Prediction_RMSE_6.9.ipynb)
+[ipynb](https://github.com/mvs834/Yandex.Practicum-RUS/blob/2cf5878f435784bf943c845d927df48d96293d13/Time%20Series%20Taxi%20Client%20Prediction/Time_Series_Taxi_Clients_Prediction_RMSE_6.9.ipynb)
 
 ## Описание проекта
 
