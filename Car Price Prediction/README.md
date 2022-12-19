@@ -1,6 +1,6 @@
 # Прогноз рыночной цены автомобиля
 
-[ipynb](https://github.com/mvs834/Yandex.Practicum-RUS/blob/8e47d9a14f590bd0f375b9f6a1d9b4edb528c687/Telecom%20customer%20churn/Telecom_Customer_Churn_LGBM_0,89.ipynb)
+[ipynb](https://github.com/mvs834/Yandex.Practicum-RUS/blob/346d5c78d45f2053aea598555d54ae9550e64705/Car%20Price%20Prediction/Car_Price_Prediction.ipynb)
 
 ## Описание проекта
 
