@@ -1,5 +1,7 @@
 # Анализ тарифов телекоммуникационной компании
 
+[ipynb](https://github.com/mvs834/Yandex.Practicum-RUS/blob/29fa79bf3fdc94f38af425a2d00b6565037549b7/Telecom%20tariff%20analysis/Telecom_tariff_analysis.ipynb)
+
 ## Описание проекта
 
 Необходимо проанализировать поведение клиентов телекоммуникационной компании и сделать вывод — какой тариф выгоднее для компании
