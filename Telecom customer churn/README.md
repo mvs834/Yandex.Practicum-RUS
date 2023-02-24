@@ -1,4 +1,4 @@
-# Прогноз оттока клиентов
+# Прогноз оттока клиентов телекоммуникационной компании
 
 [ipynb](https://github.com/mvs834/Yandex.Practicum-RUS/blob/8e47d9a14f590bd0f375b9f6a1d9b4edb528c687/Telecom%20customer%20churn/Telecom_Customer_Churn_LGBM_0,89.ipynb)
 
