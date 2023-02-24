@@ -1,6 +1,6 @@
 # Рекомендация тарифа клиенту телекоммуникационной компании
 
-[ipynb](https://github.com/mvs834/Yandex.Practicum-RUS/blob/2cf5878f435784bf943c845d927df48d96293d13/Time%20Series%20Taxi%20Client%20Prediction/Time_Series_Taxi_Clients_Prediction_RMSE_6.9.ipynb)
+[ipynb](https://github.com/mvs834/Yandex.Practicum-RUS/blob/1d47474de31ad23397dc6fcfda0816ce971afdad/Telecom%20tariff%20recommendations/Telecom_tariff_recommendations.ipynb)
 
 
 ## Описание проекта
