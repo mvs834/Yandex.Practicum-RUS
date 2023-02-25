@@ -1,6 +1,6 @@
 # Анализ платёжеспособности заёмщиков
 
-[ipynb](https://github.com/mvs834/Yandex.Practicum-RUS/blob/5e55632419e4920d443d67e4f711043f6d49dfc7/Bank%20customers%20churn/Bank_customer_churn.ipynb)
+[ipynb](https://github.com/mvs834/Yandex.Practicum-RUS/blob/a8f2a8e306225c6d77503597e2c679d868478e21/Bank%20credit%20scoring/Bank_credit_scoring.ipynb)
 
 ## Описание проекта
 
