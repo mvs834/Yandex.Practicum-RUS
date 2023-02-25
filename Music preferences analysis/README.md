@@ -1,5 +1,7 @@
 # Анализ музыкальных предпочтений
 
+[ipynb](https://github.com/mvs834/Yandex.Practicum-RUS/blob/92984f4b379980a681aa6aa0397c61cccecb6048/Music%20preferences%20analysis/Music_preferences_analysis.ipynb)
+
 ## Описание проекта
 
 Необходимо проверить три гипотезы:
