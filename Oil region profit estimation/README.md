@@ -1,6 +1,6 @@
 # Выбор наиболее прибыльного региона для бурения скважин
 
-[ipynb](https://github.com/mvs834/Yandex.Practicum-RUS/blob/a8f2a8e306225c6d77503597e2c679d868478e21/Bank%20credit%20scoring/Bank_credit_scoring.ipynb)
+[ipynb](https://github.com/mvs834/Yandex.Practicum-RUS/blob/5d3755fcd0588f853a6b04870e950fae0263c7e9/Oil%20region%20profit%20estimation/Oil_region_profit_estimation.ipynb)
 
 ## Описание проекта
 
