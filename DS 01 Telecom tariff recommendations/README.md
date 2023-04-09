@@ -7,6 +7,15 @@
 
 Необходимо построить модель для задачи классификации, которая выберет подходящий тариф для клиента телекоммуникационной компании на основе данных о расходе минут звонков, количества смс и потраченного интернет-трафика.
 
+## Навыки и инструменты
+
+- **python**
+- **pandas**
+- **seaborn**
+- sklearn.linear_model.**LogisticRegression**
+- sklearn.tree.**DecisionTreeClassifier**
+- sklearn.ensemble.**RandomForestClassifier**
+
 ## Ход выполнения проекта
 ### Загрузка данных
 Данные не нуждаются в предобработке
@@ -21,17 +30,6 @@ Accuracy наилучшей Random Forest модели на валидацион
 Accuracy модели логистической регрессии на валидационной выборке: 0.6842923794712286
 
 Наивысшая accuracy у модели Random Forest
-
-## Навыки и инструменты
-
-- **python**
-- **pandas**
-- **seaborn**
-- sklearn.linear_model.**LogisticRegression**
-- sklearn.tree.**DecisionTreeClassifier**
-- sklearn.ensemble.**RandomForestClassifier**
-
-
 
 ## Вывод
 

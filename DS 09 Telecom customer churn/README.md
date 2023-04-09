@@ -6,6 +6,22 @@
 
 Требуется анализировать персональные данные клиентов, их подключённые услуги и расходы, и прогнозировать возможный отток клиентов
 
+## Навыки и инструменты
+
+- **python**
+- **pandas**
+- **numpy**
+- matplotlib.**pyplot**
+- **seaborn**
+- sklearn.feature_selection.**SequentialFeatureSelector**
+- sklearn.inspection.**permutation_importance**
+- sklearn.linear_model.**LogisticRegression**
+- sklearn.tree.**DecisionTreeClassifier**
+- sklearn.ensemble.**RandomForestClassifier**
+- **lightgbm**
+- **xgboost**
+- catboost.**CatBoostClassifier**
+
 ## Ход выполнения проекта
 ### Загрузка и предобработка данных
 - названия колонок приведены к нижнему регистру
@@ -32,25 +48,6 @@
 
 ### Проверка модели на тестовой выборке
 - на тестовой выборке получена ROC-AUC 0,89
-
-
-## Навыки и инструменты
-
-- **python**
-- **pandas**
-- **numpy**
-- matplotlib.**pyplot**
-- **seaborn**
-- sklearn.feature_selection.**SequentialFeatureSelector**
-- sklearn.inspection.**permutation_importance**
-- sklearn.linear_model.**LogisticRegression**
-- sklearn.tree.**DecisionTreeClassifier**
-- sklearn.ensemble.**RandomForestClassifier**
-- **lightgbm**
-- **xgboost**
-- catboost.**CatBoostClassifier**
-
-
 
 ## Вывод
 

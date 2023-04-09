@@ -6,6 +6,23 @@
 
 Необходимо оценить рыночную стоимость автомобиля на основе исторических данных, включающих технические характеристики, комплектации и цены автомобилей.
 
+## Навыки и инструменты
+
+- **python**
+- **pandas**
+- **numpy**
+- matplotlib.**pyplot**
+- **seaborn**
+- sklearn.preprocessing.**StandardScaler**
+- sklearn.preprocessing.**OrdinalEncoder**
+- sklearn.**pipeline**
+- sklearn.linear_model.**LinearRegression**
+- sklearn.tree.**DecisionTreeRegressor**
+- sklearn.ensemble.**RandomForestRegressor**
+- **lightgbm**
+- **xgboost**
+- catboost.**CatBoostRegressor**
+
 ## Ход выполнения проекта
 ### Загрузка и подготовка данных
 - названия колонок не соответствуют "змеиному" формату
@@ -33,28 +50,6 @@
 
 ### Анализ моделей
 - выбрана модель CatBoost с наименьшими значениями RMSE и оптимальным временем обучения
-
-
-## Навыки и инструменты
-
-- **python**
-- **pandas**
-- **numpy**
-- matplotlib.**pyplot**
-- **seaborn**
-- sklearn.preprocessing.**StandardScaler**
-- sklearn.preprocessing.**OrdinalEncoder**
-- sklearn.**pipeline**
-- sklearn.linear_model.**LinearRegression**
-- sklearn.tree.**DecisionTreeRegressor**
-- sklearn.ensemble.**RandomForestRegressor**
-- **lightgbm**
-- **xgboost**
-- catboost.**CatBoostRegressor**
-
-
-
-
 
 ## Вывод
 

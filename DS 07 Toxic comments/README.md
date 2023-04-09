@@ -6,6 +6,23 @@
 
 Необходимо искать токсичные комментарии на основе набора данных с разметкой токсичности.
 
+## Навыки и инструменты
+
+- **python**
+- **pandas**
+- **numpy**
+- matplotlib.**pyplot**
+- **seaborn**
+- sklearn.preprocessing.**StandardScaler**
+- sklearn.preprocessing.**OrdinalEncoder**
+- sklearn.**pipeline**
+- sklearn.linear_model.**LinearRegression**
+- sklearn.tree.**DecisionTreeRegressor**
+- sklearn.ensemble.**RandomForestRegressor**
+- **lightgbm**
+- **xgboost**
+- catboost.**CatBoostRegressor**
+
 ## Ход выполнения проекта
 ### Подготовка данных
 - данные представлены в виде текстовых комментариев
@@ -26,27 +43,6 @@
 
 ### Тестирование
 - модель логистической регрессии показала наилучший результат с данными, леммаизированными с помощью Spacy
-
-## Навыки и инструменты
-
-- **python**
-- **pandas**
-- **numpy**
-- matplotlib.**pyplot**
-- **seaborn**
-- sklearn.preprocessing.**StandardScaler**
-- sklearn.preprocessing.**OrdinalEncoder**
-- sklearn.**pipeline**
-- sklearn.linear_model.**LinearRegression**
-- sklearn.tree.**DecisionTreeRegressor**
-- sklearn.ensemble.**RandomForestRegressor**
-- **lightgbm**
-- **xgboost**
-- catboost.**CatBoostRegressor**
-
-
-
-
 
 ## Вывод
 

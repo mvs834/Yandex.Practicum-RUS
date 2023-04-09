@@ -6,6 +6,17 @@
 
 Необходимо спрогнозировать уйдёт ли клиент из банка на основе исторических данные о поведении клиентов и расторжении договоров с банком.
 
+## Навыки и инструменты
+
+- **python**
+- **pandas**
+- **numpy**
+- matplotlib.**pyplot**
+- **seaborn**
+- sklearn.linear_model.**LogisticRegression**
+- sklearn.tree.**DecisionTreeClassifier**
+- sklearn.ensemble.**RandomForestClassifier**
+
 ## Ход выполнения проекта
 ### Загрузка и предобработка
 - названия колонок приведены к "змеиному_формату"
@@ -36,19 +47,6 @@
 ### Тестирование модели
 - f1_score: 0.59
 - AUC ROC score: 0.8566493552869575
-
-## Навыки и инструменты
-
-- **python**
-- **pandas**
-- **numpy**
-- matplotlib.**pyplot**
-- **seaborn**
-- sklearn.linear_model.**LogisticRegression**
-- sklearn.tree.**DecisionTreeClassifier**
-- sklearn.ensemble.**RandomForestClassifier**
-
-
 
 ## Вывод
 

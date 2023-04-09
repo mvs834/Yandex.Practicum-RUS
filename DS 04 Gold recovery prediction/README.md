@@ -6,6 +6,17 @@
 
 Необходимо предсказать коэффициент восстановления золота из золотосодержащей руды на основе данных с параметрами добычи и очистки
 
+## Навыки и инструменты
+
+- **python**
+- **pandas**
+- **numpy**
+- matplotlib.**pyplot**
+- **seaborn**
+- sklearn.linear_model.**LinearRegression**
+- sklearn.tree.**DecisionTreeRegressor**
+- sklearn.ensemble.**RandomForestRegressor**
+
 ## Ход выполнения проекта
 ### Загрузка и подготовка данных
 - в тестовой выборке отсутствуют 34 признака, которые есть в обучающей выборке
@@ -24,19 +35,6 @@
 ### Построение модели
 - написаны функции для вычисления итоговой sMAPE
 - обучены модели линейной регрессии, решающего дерева и случайного леса
-
-## Навыки и инструменты
-
-- **python**
-- **pandas**
-- **numpy**
-- matplotlib.**pyplot**
-- **seaborn**
-- sklearn.linear_model.**LinearRegression**
-- sklearn.tree.**DecisionTreeRegressor**
-- sklearn.ensemble.**RandomForestRegressor**
-
-
 
 ## Вывод
 
